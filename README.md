@@ -1,8 +1,7 @@
 # Mikrokontroller
 
-<form>
-  <div>
-    <label>NPM</label>
-    <input type="text" value="21081010226" disabled>
-  </div>
-</form>
+<div>
+  <label>NPM</label>
+  <h5>21081010226</h5>
+</div>
+
